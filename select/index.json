@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Was It A Dream?",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:40:17.015629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Was It A Dream",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/01_Was_It_A_Dream_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Was It A Dream",
+      "artist": "Nadler, Marissa",
+      "has_synced": true,
+      "path": "select/02_Was_It_A_Dream_Nadler,_Marissa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Was It A Dream",
+      "artist": "The Dø",
+      "has_synced": true,
+      "path": "select/03_Was_It_A_Dream_The_Dø.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Was It A Dream?",
+      "artist": "The Dø",
+      "has_synced": true,
+      "path": "select/04_Was_It_A_Dream_The_Dø.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Was It A Dream?",
+      "artist": "MARIS",
+      "has_synced": true,
+      "path": "select/05_Was_It_A_Dream_MARIS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Was It A Dream?",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/06_Was_It_A_Dream_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Was It A Dream?",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/07_Was_It_A_Dream_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Was It a Dream?",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/08_Was_It_a_Dream_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Was it a dream ?",
+      "artist": "The Dø",
+      "has_synced": true,
+      "path": "select/09_Was_it_a_dream_The_Dø.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Was It A Dream [Acoustic]",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/10_Was_It_A_Dream_[Acoustic]_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Was It A Dream",
+      "artist": "The Do",
+      "has_synced": true,
+      "path": "select/11_Was_It_A_Dream_The_Do.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Was It a Dream?",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/12_Was_It_a_Dream_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Was It a Dream?",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/13_Was_It_a_Dream_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Was It A Dream? (Acoustic)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/14_Was_It_A_Dream__(Acoustic)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Was It A Dream?",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/15_Was_It_A_Dream_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Was It a Dream?",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Was_It_a_Dream_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
